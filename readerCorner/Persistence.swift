@@ -18,11 +18,9 @@ struct PersistenceController {
             newItem.timestamp = Date()
             newItem.title = "Vivre vite"
             newItem.author = "Brigitte Giraud"
-            /*
-            newItem.resume = ""J'ai été aimantée par cette double mission impossible. Acheter la maison et retrouver les armes cachées. C'était inespéré et je n'ai pas flairé l'engrenage qui allait faire basculer notre existence.Parce que la maison est au coeur de ce qui a provoqué l'accident."En un récit tendu qui agit comme un véritable compte à rebours, Brigitte Giraud tente de comprendre ce qui a conduit à l'accident de moto qui a coûté la vie à son mari le 22 juin 1999. Vingt ans après, elle fait pour ainsi dire le tour du propriétaire et sonde une dernière fois les questions restées sans réponse. Hasard, destin, coïncidences ? Elle revient sur ces journées qui s'étaient emballées en une suite de dérèglements imprévisibles jusqu'à produire l'inéluctable. À ce point électrisé par la perspective du déménagement, à ce point pressé de commencer les travaux de rénovation, le couple en avait oublié que vivre était dangereux.Brigitte Giraud mène l'enquête et met en scène la vie de Claude, et la leur, miraculeusement ranimées."
+            newItem.resume = "\"J'ai été aimantée par cette double mission impossible. Acheter la maison et retrouver les armes cachées. C'était inespéré et je n'ai pas flairé l'engrenage qui allait faire basculer notre existence.Parce que la maison est au coeur de ce qui a provoqué l'accident.\"En un récit tendu qui agit comme un véritable compte à rebours, Brigitte Giraud tente de comprendre ce qui a conduit à l'accident de moto qui a coûté la vie à son mari le 22 juin 1999. Vingt ans après, elle fait pour ainsi dire le tour du propriétaire et sonde une dernière fois les questions restées sans réponse. Hasard, destin, coïncidences ? Elle revient sur ces journées qui s'étaient emballées en une suite de dérèglements imprévisibles jusqu'à produire l'inéluctable. À ce point électrisé par la perspective du déménagement, à ce point pressé de commencer les travaux de rénovation, le couple en avait oublié que vivre était dangereux.Brigitte Giraud mène l'enquête et met en scène la vie de Claude, et la leur, miraculeusement ranimées."
             newItem.year = 2022
             newItem.category = 0
-             */
             
         }
         do {

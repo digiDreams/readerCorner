@@ -22,6 +22,7 @@ struct ContentView: View {
                 ForEach(items) { item in
                     NavigationLink {
                         Text("\(item.title!), \(item.author!)")
+                        // BookViewDetail(book: item)
                     } label: {
                         Text("\(item.title!), \(item.author!)")
                     }
