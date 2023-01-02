@@ -13,6 +13,7 @@
 		7B5024522962D1B6007D359B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B5024512962D1B6007D359B /* Preview Assets.xcassets */; };
 		7B5024542962D1B6007D359B /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B5024532962D1B6007D359B /* Persistence.swift */; };
 		7B5024572962D1B6007D359B /* readerCorner.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7B5024552962D1B6007D359B /* readerCorner.xcdatamodeld */; };
+		7B50245E2962E18D007D359B /* BookViewDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B50245D2962E18C007D359B /* BookViewDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		7B5024512962D1B6007D359B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7B5024532962D1B6007D359B /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		7B5024562962D1B6007D359B /* readerCorner.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = readerCorner.xcdatamodel; sourceTree = "<group>"; };
+		7B50245D2962E18C007D359B /* BookViewDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookViewDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				7B50244A2962D1B3007D359B /* readerCornerApp.swift */,
 				7B50244C2962D1B3007D359B /* ContentView.swift */,
+				7B50245D2962E18C007D359B /* BookViewDetail.swift */,
 				7B50244E2962D1B6007D359B /* Assets.xcassets */,
 				7B5024532962D1B6007D359B /* Persistence.swift */,
 				7B5024552962D1B6007D359B /* readerCorner.xcdatamodeld */,
@@ -147,6 +150,7 @@
 				7B5024572962D1B6007D359B /* readerCorner.xcdatamodeld in Sources */,
 				7B50244D2962D1B3007D359B /* ContentView.swift in Sources */,
 				7B50244B2962D1B3007D359B /* readerCornerApp.swift in Sources */,
+				7B50245E2962E18D007D359B /* BookViewDetail.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
